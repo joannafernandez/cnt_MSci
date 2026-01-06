@@ -1,6 +1,11 @@
 # NGS Data types and formats
 > a key resource with great examples can be found here: https://ngs101.com/the-complete-guide-to-ngs-data-types-and-formats-from-raw-reads-to-analysis-ready-files/
 
+LO1: Understand the generic structure of an NGS workflow
+
+LO2: Ifentify and recognise the various files and data types
+
+
 ---
 ## The experiment begins with the cellular and molecular biology
 <img width="1477" height="409" alt="image" src="https://github.com/user-attachments/assets/a585bce8-421c-4783-ba0f-5310344f4c49" />
