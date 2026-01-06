@@ -1,5 +1,21 @@
 ## ✂️🏷️ 1. What is CUT&Tag?
 
+### Key resources:
+> Fantastic resource on a generic workflow
+> https://ngs101.com/how-to-analyze-cutrun-tag-data-for-absolute-beginners-from-fastq-to-peaks/
+
+> Documentation for the Soutoglou Laboratory
+> https://github.com/joannafernandez/cut-run_for_soutoglou_laboratory/tree/main
+
+> The Y. Zheng workflow:
+> https://yezhengstat.github.io/CUTTag_tutorial/#I_Introduction
+
+> The nfcore documentation:
+> Using nf-core cutandrun v 3.2.2 🧬🍏 https://github.com/nf-core/cutandrun
+> 
+> _The nf-core framework for community-curated bioinformatics pipelines. Philip Ewels, Alexander Peltzer, Sven Fillinger, Harshil Patel, Johannes Alneberg, Andreas Wilm, Maxime Ulysse Garcia, Paolo Di Tommaso & Sven Nahnsen. Nat Biotechnol. 2020 Feb 13. doi: 10.1038/s41587-020-0439-x._
+>
+
 **CUT&Tag (Cleavage Under Targets and Tagmentation)** is a targeted chromatin profiling technique used to map protein–DNA interactions and histone modifications genome-wide.  
 It combines antibody-directed targeting with **Tn5 transposase–mediated tagmentation**, enabling high-resolution profiling using very low cell numbers.
 
