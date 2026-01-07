@@ -16,7 +16,7 @@ Your previous experience was using .csv files as your input for your analysis
 <img width="318.5" height="272" alt="image" src="https://github.com/user-attachments/assets/bcc1a02a-f083-4743-92c7-8a6d8c23f4d4" />
 
 with this project, you will learn about the other "black box" programs that take raw sequencing data (FastQs) as an input, and how we process this in large workflows 
-<img width="1290" height="556" alt="image" src="https://github.com/user-attachments/assets/2f60b907-6432-4876-a751-950dd926ca05" />
+<img width="1251" height="560" alt="image" src="https://github.com/user-attachments/assets/b6e19363-df45-47df-8d51-69fb115afa77" />
 
 ---
 ## Common Genomic File Formats
