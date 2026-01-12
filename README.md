@@ -25,5 +25,8 @@ Critically, first introduction to the workflow we will be using in this project.
 The following worksheets can be used as a primer for and should give you some practice with using some of the most commonly used command line tools for NGS analysis 
 
 > #### L4_bowtie2_samtools_worksheet.ipynb
+> Use a toy genome and reads to get to grips with Bowtie2 and samtools
+
 > #### L5&6_MAPQ_filtering.ipynb
+> Using a toy genome, learn how to inspect
 
