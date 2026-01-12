@@ -28,5 +28,6 @@ The following worksheets can be used as a primer for and should give you some pr
 > Use a toy genome and reads to get to grips with Bowtie2 and samtools
 
 > #### L5&6_MAPQ_filtering.ipynb
-> Using a toy genome, learn how to inspect
+> Important basis for QC:
+> Using a toy genome and reads, practice Bowtie2 and samtools application and learn how to inspect outputs for mapping quality. 
 
