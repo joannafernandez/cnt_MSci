@@ -13,6 +13,8 @@ This information page gives you an overview and comparison points for the CUT&Ru
 
 
 #### L2_filetypes.md
+Introduction to the various file types you will encounter with CLI scrippting in NGS bioinformatics workflows. 
+Critically, first introduction to the workflow we will be using in this project.
 
 #### L1_background.md
 
