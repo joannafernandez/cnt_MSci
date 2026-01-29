@@ -6,7 +6,7 @@ You can get the most out of the materials by following the order of the resource
 
 ---
 
-### Here is a brief repository indez: 
+### Here is a brief repository index: 
 
 > #### L1_background.md
 > This information page gives you an overview and comparison points for the CUT&Run methodology that this project focuses on.
