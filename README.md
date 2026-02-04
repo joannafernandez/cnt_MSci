@@ -5,6 +5,14 @@ Files have been generated with assistance from ChatGPT version 5.1 and 5.2.
 This repository includes a mixture of worsheets, information pages, and links to various other learning resources. 
 You can get the most out of the materials by following the order of the resources (L1, L2, etc.) and compeleting the worksheets in Google Collab. 
 
+### For your consideration:
+A fantastic resource for learning Python as a biologist is Helfrid Hochegger's Website and Youtube Channel:
+https://www.youtube.com/@PythonforBiology/featured
+https://python-for-biologists.vercel.app/#lectures
+
+Please also have a look at the Soutoglou Lab's main Cut&RUN repository for practical guides and outlines of the current workflow we follow from nf.core
+https://github.com/joannafernandez/cut-run_for_soutoglou_laboratory
+
 ---
 
 ### Here is a brief repository index: 
@@ -34,6 +42,7 @@ The following worksheets can be used as a primer for and should give you some pr
 
 ---
 
+### These resources can be used at any point, you do not need to complete L1-6 to use these.
 > #### L7_pyranges_basics.md
 > Practical guide/cheat sheet of PyRanges commands for genomic interval opperations in Python. This is a powerful python module for working with data sets in genomic intervals (ie: BED and GTF style data)
 
