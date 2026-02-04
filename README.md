@@ -1,5 +1,6 @@
 #  ✂️🏷️ Cut&TAG_MSci
-Repository and Resources for MSci data science project in the Soutoglou Laboratory
+Repository and Resources for MSci data science project in the Soutoglou Laboratory. 
+Files have been generated with assistance from ChatGPT version 5.1 and 5.2.
 
 This repository includes a mixture of worsheets, information pages, and links to various other learning resources. 
 You can get the most out of the materials by following the order of the resources (L1, L2, etc.) and compeleting the worksheets in Google Collab. 
@@ -21,7 +22,7 @@ Critically, first introduction to the workflow we will be using in this project.
 
 ---
 
-#### Forkflow sorksheets
+#### Workflow worksheets
 The following worksheets can be used as a primer for and should give you some practice with using some of the most commonly used command line tools for NGS analysis 
 
 > #### L4_bowtie2_samtools_worksheet.ipynb
@@ -30,4 +31,18 @@ The following worksheets can be used as a primer for and should give you some pr
 > #### L5&6_MAPQ_filtering.ipynb
 > Important basis for QC:
 > Using a toy genome and reads, practice Bowtie2 and samtools application and learn how to inspect outputs for mapping quality. 
+
+---
+
+> #### L7_pyranges_basics.md
+> Practical guide/cheat sheet of PyRanges commands for genomic interval opperations in Python. This is a powerful python module for working with data sets in genomic intervals (ie: BED and GTF style data)
+
+> #### L8_pyranges_cuttag_advanced.md
+> More advanced operations, particularly on how to combine working with BED files and GTF files for further anlysis of Cut&TAG peaks.
+
+> #### L9_plotting_from_pyranges_examples.md
+> Useful resouce on how to move from analysis of your genomic interval data into presenting it with custom plots with seaborn
+
+> #### L10_pyBigWig_tutorial.md
+> Simplified workflow and useful starter function for extracting information from bigWig files, and creating custom plots with seaborn
 
