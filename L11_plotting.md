@@ -8,8 +8,11 @@ https://www.nature.com/articles/s41467-020-19160-7
 https://rupress.org/jcb/article/219/6/e202001064/151717/SuperPlots-Communicating-reproducibility-and
 
 colours:
+
 https://carto.com/carto-colors/
+
 https://cran.r-project.org/web/packages/khroma/vignettes/tol.html#sec:light
+
 https://www.kennethmoreland.com/color-maps/ColorMapsExpanded.pdf
 
 ## 🎯 Core Principle
