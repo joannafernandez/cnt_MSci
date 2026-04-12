@@ -1,5 +1,12 @@
 # Scientific Graphing: Best Practices for Clear Communication
 
+## Importnat resources
+https://urbaninstitute.github.io/graphics-styleguide/
+https://practicaldatascience.org/notebooks/class_5/week_1/2.1.1_the_matplotlib_model.html
+
+https://www.nature.com/articles/s41467-020-19160-7
+https://rupress.org/jcb/article/219/6/e202001064/151717/SuperPlots-Communicating-reproducibility-and
+
 ## 🎯 Core Principle
 **A figure is not decoration — it is an argument.**  
 Every graph should communicate one clear message.
