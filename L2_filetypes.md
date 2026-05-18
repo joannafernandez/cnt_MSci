@@ -1,9 +1,9 @@
 # NGS Data types and formats
 > a key resource with great examples can be found here: https://ngs101.com/the-complete-guide-to-ngs-data-types-and-formats-from-raw-reads-to-analysis-ready-files/
 
-LO1: Understand the generic structure of an NGS workflow
+LO1: Be able to explain and describe the generic structure of an NGS workflow
 
-LO2: Ifentify and recognise the various files and data types
+LO2: Compare and distinguish the various files and data types used and generated in NGS workflows
 
 
 ---
